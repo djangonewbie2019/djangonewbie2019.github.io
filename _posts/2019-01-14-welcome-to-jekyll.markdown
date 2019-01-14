@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Django 2 !"
 date:   2019-01-14 07:56:28 +0000
 categories: jekyll update
 ---
